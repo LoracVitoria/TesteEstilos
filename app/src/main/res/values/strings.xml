@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Teste de Estilos</string>
     <string name="texto">Texto</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="nome">"Nome: "</string>
+    <string name="sexo">Sexo</string>
 </resources>
